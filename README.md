@@ -10,9 +10,8 @@ En esta página index o principal ponga su nombre o el nombre de cada uno de los
 #### 1.
 ![1](https://user-images.githubusercontent.com/82108012/114256719-5163db00-9989-11eb-8a5c-a7ee13081492.PNG)
 
-
 #### 2. 
-	
+![2](https://user-images.githubusercontent.com/82108012/114256833-26c65200-998a-11eb-9495-a3c1decd9577.PNG)
 
 #### 3. 
 		
