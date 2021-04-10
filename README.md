@@ -17,8 +17,8 @@ En esta página index o principal ponga su nombre o el nombre de cada uno de los
 ![3](https://user-images.githubusercontent.com/82108012/114256859-43628a00-998a-11eb-9651-f431c0fd4899.PNG)	
 
 #### 4. 
+![4](https://user-images.githubusercontent.com/82108012/114256875-59704a80-998a-11eb-8ecd-02e9c5540f0f.PNG)
 	
- 
 ### II Listas: Generar código html, que permita obtener la siguientes páginas Html.
 
 #### a)
