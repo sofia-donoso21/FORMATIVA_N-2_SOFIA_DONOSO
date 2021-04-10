@@ -25,8 +25,15 @@ En esta página index o principal ponga su nombre o el nombre de cada uno de los
 ![5](https://user-images.githubusercontent.com/82108012/114256913-8f153380-998a-11eb-936c-37434f1f480d.PNG)
  
 #### b)
+![6](https://user-images.githubusercontent.com/82108012/114256948-b53ad380-998a-11eb-9ef0-8237d23fcbd2.PNG)
+
  
 ### III  Crear Formulario Web
+
+![7](https://user-images.githubusercontent.com/82108012/114256994-e61b0880-998a-11eb-854b-2ea23be2ad94.PNG)
+
+![8](https://user-images.githubusercontent.com/82108012/114256999-eca98000-998a-11eb-8d23-6864f0e9f4db.PNG)
+
  
 
 
