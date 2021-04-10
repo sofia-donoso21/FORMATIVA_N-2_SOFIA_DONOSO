@@ -14,7 +14,7 @@ En esta página index o principal ponga su nombre o el nombre de cada uno de los
 ![2](https://user-images.githubusercontent.com/82108012/114256833-26c65200-998a-11eb-9495-a3c1decd9577.PNG)
 
 #### 3. 
-		
+![3](https://user-images.githubusercontent.com/82108012/114256859-43628a00-998a-11eb-9651-f431c0fd4899.PNG)	
 
 #### 4. 
 	
