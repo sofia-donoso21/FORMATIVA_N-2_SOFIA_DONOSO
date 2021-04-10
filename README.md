@@ -7,7 +7,7 @@ En esta página index o principal ponga su nombre o el nombre de cada uno de los
 ### Ejercicios:
 ### I Tablas: Generar código html, que permita obtener cada una de las siguientes tablas
 
-#### 1.
+#### 1. ![1](https://user-images.githubusercontent.com/82108012/114256719-5163db00-9989-11eb-8a5c-a7ee13081492.PNG)
 
 
 #### 2. 
